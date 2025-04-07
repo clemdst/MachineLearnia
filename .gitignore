@@ -163,6 +163,4 @@ cython_debug/
 
 # Specific to the project
 *.txt
-*.csv
-*.png
 *.pdf
